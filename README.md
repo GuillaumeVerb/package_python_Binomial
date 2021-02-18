@@ -1,6 +1,6 @@
 # package_python_Binomial
 
-# Python package containing implementations of Gaussian and Binomial distributions.
+## Python package containing implementations of Gaussian and Binomial distributions.
 
 # Overview
 Python package containing implementations of Gaussian and Binomial distributions.
